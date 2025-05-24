@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import {
   Heart,
   Video,
@@ -8,8 +8,6 @@ import {
   ChevronRight,
   Brain,
   Sparkles,
-  Clock,
-  Star,
   Play,
   ArrowRight,
 } from "lucide-react";
